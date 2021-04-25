@@ -1,0 +1,4 @@
+# the folder names end with slash
+node_modules/
+images/
+data.json
